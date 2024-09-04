@@ -1,0 +1,3 @@
+ctrl + shift + 10  >>>  Executa o arquivo ativo
+ctrl + D  >>>  duplica a linha
+ctrl + F  >>>  localiza
